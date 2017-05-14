@@ -1,0 +1,14 @@
+{
+    "name": "tutorial",
+    "reason": {
+        "react-jsx": true
+    },
+    "bs-dependencies": ["reason-react"],
+    "package-specs": ["es6"],
+    "sources": [
+        {
+            "dir": "src",
+            "subdirs": ["components"]
+        }
+    ]
+}
